@@ -1,2 +1,2 @@
-# Google-Play-Store-Sentiment-Analysis-using-DeepLearning
+# Google-Play-Store-Sentiment-Analysis-using-LSTM-and-GRU-model
 This project takes data from google playstore where data is selected from different e-wallet applications, namely ovo and funds, to find out the sentiment of application users based on many factors, one of which is the rating and the number of likes on comments that support content reviews from users, then from all reviews, a LSTM and GRU model will be created to predict the sentiment score if there are new users who provide reviews.
